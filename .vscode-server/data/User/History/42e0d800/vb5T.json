@@ -1,0 +1,6 @@
+{
+    "redhat.telemetry.enabled": true,
+    "remote.SSH.remotePlatform": {
+        "ec2-3-88-32-106.compute-1.amazonaws.com": "linux"
+    }
+}

@@ -1,0 +1,41 @@
+2024-12-07 14:32:28.522 [info] 
+
+
+
+
+2024-12-07 14:32:28.533 [info] Extension host agent started.
+2024-12-07 14:32:28.583 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2024-12-07 14:32:28.595 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2024-12-07 14:32:28.903 [info] [<unknown>][a85173f4][ManagementConnection] New connection established.
+2024-12-07 14:32:28.905 [info] [<unknown>][650ae60c][ExtensionHostConnection] New connection established.
+2024-12-07 14:32:29.069 [info] [<unknown>][650ae60c][ExtensionHostConnection] <28817> Launched Extension Host Process.
+2024-12-07 14:35:33.636 [info] [<unknown>][a85173f4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-07 14:35:33.665 [info] [<unknown>][650ae60c][ExtensionHostConnection] <28817> Extension Host Process exited with code: 0, signal: null.
+2024-12-07 14:35:33.665 [info] Cancelling previous shutdown timeout
+2024-12-07 14:35:33.665 [info] Last EH closed, waiting before shutting down
+2024-12-07 14:35:51.650 [info] [<unknown>][3e7ad40a][ExtensionHostConnection] New connection established.
+2024-12-07 14:35:51.651 [info] [<unknown>][70d4ae45][ManagementConnection] New connection established.
+2024-12-07 14:35:51.653 [info] [<unknown>][3e7ad40a][ExtensionHostConnection] <29424> Launched Extension Host Process.
+2024-12-07 14:40:33.668 [info] New EH opened, aborting shutdown
+2024-12-07 14:40:33.670 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-e8653663e8840adaf45af01eab5c627a5af81807/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-12-07 14:45:28.021 [info] [<unknown>][70d4ae45][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-07 14:45:28.081 [info] [<unknown>][3e7ad40a][ExtensionHostConnection] <29424> Extension Host Process exited with code: 0, signal: null.
+2024-12-07 14:45:28.081 [info] Last EH closed, waiting before shutting down
+2024-12-07 14:45:28.228 [info] [<unknown>][7315e5db][ManagementConnection] New connection established.
+2024-12-07 14:45:28.229 [info] [<unknown>][8b771edd][ExtensionHostConnection] New connection established.
+2024-12-07 14:45:28.231 [info] [<unknown>][8b771edd][ExtensionHostConnection] <31035> Launched Extension Host Process.
+2024-12-07 14:45:43.396 [info] [<unknown>][7315e5db][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-07 14:45:43.412 [info] [<unknown>][8b771edd][ExtensionHostConnection] <31035> Extension Host Process exited with code: 0, signal: null.
+2024-12-07 14:45:43.412 [info] Cancelling previous shutdown timeout
+2024-12-07 14:45:43.412 [info] Last EH closed, waiting before shutting down
+2024-12-07 14:45:48.012 [info] [<unknown>][6594bd25][ManagementConnection] New connection established.
+2024-12-07 14:45:48.013 [info] [<unknown>][e19f991a][ExtensionHostConnection] New connection established.
+2024-12-07 14:45:48.015 [info] [<unknown>][e19f991a][ExtensionHostConnection] <31182> Launched Extension Host Process.
+2024-12-07 14:46:16.632 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-12-07 14:46:16.634 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-12-07 14:50:43.413 [info] New EH opened, aborting shutdown
+2024-12-07 15:21:27.211 [info] [<unknown>][6594bd25][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-07 15:21:27.329 [info] [<unknown>][e19f991a][ExtensionHostConnection] <31182> Extension Host Process exited with code: 0, signal: null.
+2024-12-07 15:21:27.329 [info] Last EH closed, waiting before shutting down
